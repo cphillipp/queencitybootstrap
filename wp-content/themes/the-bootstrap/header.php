@@ -21,7 +21,7 @@
 		
 		<?php tha_head_bottom(); ?>
 		<?php wp_head(); ?>
-		<link rel="stylesheet" href="css/netmark.css" type="text/css" media="all">
+		<link rel="stylesheet" type="text/css" href="css/netmark.css" />
 	</head>
 	
 	<body <?php body_class(); ?>>
