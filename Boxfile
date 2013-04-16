@@ -6,4 +6,3 @@ web1:
     - mysql
     - apc
     - gd 
-    - soap
