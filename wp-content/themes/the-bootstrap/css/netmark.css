@@ -1,4 +1,4 @@
 /* CUSTOM */
-body 				{background:#7E0B10 url("img/background01.png") repeat;}
-.background-glow 	{background:url("img/background02.png") repeat-y;}
-.background-city 	{background:url("img/background03.png") repeat-x; height:396px; position:absolute; top:245px; left:0;}
+body 				{background:#7E0B10 url("../img/background01.png") repeat;}
+.background-glow 	{background:url("../img/background02.png") repeat-y;}
+.background-city 	{background:url("../img/background03.png") repeat-x; height:396px; position:absolute; top:245px; left:0;}
