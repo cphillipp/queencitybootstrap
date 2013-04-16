@@ -5,4 +5,5 @@ body 				{background:url("../img/background01.png") center repeat-y;}
 .container 			{position:relative;}
 #page 				{background:transparent;}
 .custom-wrapper		{width:100%; background:#FFF; overflow:hidden;}
+#meteor-slideshow 	{margin:0 auto;}
 

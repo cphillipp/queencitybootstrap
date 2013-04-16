@@ -14,21 +14,21 @@
  */
 
 get_header(); ?>
+<div class="custom-wrapper">
+	<div id="primary" class="span8">
+		<?php tha_content_before(); ?>
+		<div id="content" role="main">
+			<?php tha_content_top();
+			
+			the_post();
+			get_template_part( '/partials/content', 'page' );
+			comments_template();
 
-<div id="primary" class="span8">
-	<?php tha_content_before(); ?>
-	<div id="content" role="main">
-		<?php tha_content_top();
-		
-		the_post();
-		get_template_part( '/partials/content', 'page' );
-		comments_template();
-
-		tha_content_bottom(); ?>
-	</div><!-- #content -->
-	<?php tha_content_after(); ?>
-</div><!-- #primary -->
-
+			tha_content_bottom(); ?>
+		</div><!-- #content -->
+		<?php tha_content_after(); ?>
+	</div><!-- #primary -->
+</div>
 <?php
 get_sidebar();
 get_footer();
