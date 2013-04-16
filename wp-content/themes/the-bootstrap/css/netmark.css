@@ -6,5 +6,9 @@ body 				{background:url("../img/background01.png") center repeat-y;}
 #page 				{background:transparent;}
 .custom-wrapper		{width:95%; background:#FFF; overflow:hidden; margin:0 auto;}
 #meteor-slideshow 	{margin:0 auto;}
-.span8 {width:738px;}
+media="all"
+bootstrap.min.css:868@media (min-width: 1200px)
+.span8 {
+width: 738px;
+}
 
