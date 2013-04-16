@@ -4,6 +4,7 @@ body 				{background:url("../img/background01.png") center repeat-y;}
 .background-city 	{background:url("../img/background03.png") repeat-x; width:100%; height:396px; position:absolute; top:245px; left:0;}
 .container 			{position:relative;}
 #page 				{background:transparent;}
-.custom-wrapper		{width:100%; background:#FFF; overflow:hidden;}
+.custom-wrapper		{width:95%; background:#FFF; overflow:hidden; margin:0 auto;}
 #meteor-slideshow 	{margin:0 auto;}
+.span8 {width:738px;}
 
