@@ -14,7 +14,7 @@
  */
 
 get_header(); ?>
-
+<div class="custom-wrapper">
 <div id="primary" class="span8">
 	<?php tha_content_before(); ?>
 	<div id="content" role="main">

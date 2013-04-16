@@ -30,6 +30,7 @@ tha_sidebars_before(); ?>
 	
 	tha_sidebar_bottom(); ?>
 </section><!-- #secondary .widget-area -->
+</div><!-- .custom-wrapper -->
 <?php tha_sidebars_after();
 
 
