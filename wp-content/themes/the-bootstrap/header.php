@@ -24,6 +24,8 @@
 	</head>
 	
 	<body <?php body_class(); ?>>
+		<div class="background-glow">
+		<div class="background-city"></div>
 		<div class="container">
 			<div id="page" class="hfeed row">
 				<?php tha_header_before(); ?>
