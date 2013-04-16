@@ -1,5 +1,5 @@
 <?php
-/** _home_page.php
+/** home
  *
  * Template Name: Home Page
  */
@@ -22,7 +22,3 @@ get_header(); ?>
 
 <?php
 get_footer();
-
-
-/* End of file _full_width.php */
-/* Location: ./wp-content/themes/the-bootstrap/_full_width.php */
