@@ -7,7 +7,6 @@
  */
 
 				tha_footer_before(); ?>
-				</div><!-- .custom-wrapper -->
 				<footer id="colophon" role="contentinfo" class="span12">
 					<?php tha_footer_top(); ?>
 					<div id="page-footer" class="well clearfix">

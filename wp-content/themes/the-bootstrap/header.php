@@ -94,7 +94,7 @@
 						yoast_breadcrumb( '<nav id="breadcrumb" class="breadcrumb">', '</nav>' );
 					}
 					tha_header_bottom(); ?>
-				</header><!-- #branding --><div class="custom-wrapper"><?php
+				</header><!-- #branding --><?php
 				tha_header_after();
 				
 
