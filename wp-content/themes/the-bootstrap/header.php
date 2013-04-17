@@ -24,7 +24,7 @@
 		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
 	</head>
 	
-	<body id="body" <?php body_class(); ?>>
+	<body <?php body_class(); ?>>
 		<div class="background-pattern">
 		<div class="background-city"></div>
 		<div class="container">
