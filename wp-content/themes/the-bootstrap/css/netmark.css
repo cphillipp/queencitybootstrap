@@ -10,4 +10,5 @@ body 				{background:#7E0B10 url("../img/background01.png") center repeat-y;}
 @media (min-width: 1200px) 							{.span8 {width:738px;}}
 @media (max-width: 979px) and (min-width: 768px) 	{.span8 {width:457px;}}
 @media (max-width: 767px) 							{#primary {margin:0 3%; width:93%;}}
+#page-footer 		{margin:50px 0 0;}
 
