@@ -19,6 +19,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		
 		<title><?php wp_title( '&laquo;', true, 'right' ); ?></title>
+		<?php tha_head_bottom(); ?>
+		<?php wp_head(); ?>
+		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
+	</head>
+	<body <?php body_class(); ?>>
 		<script type="text/javascript">
 			$(document).ready(function(){
 			resizeDiv();
@@ -34,12 +39,6 @@
 			$('.background-pattern').css({'height': vph + 'px'});
 			}
 		</script>
-		<?php tha_head_bottom(); ?>
-		<?php wp_head(); ?>
-		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
-	</head>
-	
-	<body <?php body_class(); ?>>
 		<div class="background-pattern">
 		<div class="background-city"></div>
 		<div class="container">
