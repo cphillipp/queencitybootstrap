@@ -21,10 +21,7 @@
 						) );
 						?>
 						<div id="site-generator"<?php echo has_nav_menu('footer-menu') ? ' class="footer-nav-menu"' : ''; ?>>
-							<a	href="<?php echo esc_url( __( 'http://wordpress.org/', 'the-bootstrap' ) ); ?>"
-								title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'the-bootstrap' ); ?>"
-								target="_blank"
-								rel="generator"><?php printf( _x( 'Proudly powered by %s', 'WordPress', 'the-bootstrap' ), 'WordPress' ); ?></a>
+							
 						</div>
 					</div><!-- #page-footer .well .clearfix -->
 					<?php tha_footer_bottom(); ?>
