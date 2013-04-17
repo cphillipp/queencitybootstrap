@@ -23,6 +23,9 @@
 		<?php wp_head(); ?>
 		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
 		<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
+	</head>
+	
+	<body <?php body_class(); ?>>
 		<script type="text/javascript">
 			$(document).ready(function(){
 			resizeDiv();
@@ -38,9 +41,6 @@
 			$('.background-pattern').css({'height': vph + 'px'});
 			}
 		</script>
-	</head>
-	
-	<body <?php body_class(); ?>>
 		<div class="background-pattern">
 		<div class="background-city"></div>
 		<div class="container">
