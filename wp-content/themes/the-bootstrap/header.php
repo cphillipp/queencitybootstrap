@@ -31,7 +31,7 @@
 
 			window.onresize = function(event) {
 			var height = getDocHeight();
-			$('.background-pattern').css({'height': height + 'px'});
+			$('.background-pattern').css({'height': height});
 			}
 
 			function getDocHeight() {
