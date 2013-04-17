@@ -13,6 +13,12 @@
 <html class="no-js" <?php language_attributes(); ?>>
 	<head>
 		<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
+		<?php tha_head_top(); ?>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<meta charset="<?php bloginfo( 'charset' ); ?>" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<title><?php wp_title( '&laquo;', true, 'right' ); ?></title>
 		<script type="text/javascript">
 			$(document).ready(function(){
 			resizeDiv();
@@ -28,13 +34,6 @@
 			$('.background-pattern').css({'height': vph + 'px'});
 			}
 		</script>
-		<?php tha_head_top(); ?>
-		<link rel="profile" href="http://gmpg.org/xfn/11" />
-		<meta charset="<?php bloginfo( 'charset' ); ?>" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		
-		<title><?php wp_title( '&laquo;', true, 'right' ); ?></title>
-		
 		<?php tha_head_bottom(); ?>
 		<?php wp_head(); ?>
 		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
