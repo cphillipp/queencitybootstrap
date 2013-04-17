@@ -6,6 +6,7 @@ body 				{background:#7E0B10 url("../img/background01.png") center repeat-y;}
 #page 				{background:transparent; padding:0 !important;}
 .custom-wrapper		{width:95%; background:#FFF; overflow:hidden; margin:0 auto;}
 #meteor-slideshow 	{margin:0 auto;}
+.well 				{margin:50px 0 0;}
 .span8 												{width:591px;}
 @media (min-width: 1200px) 							{.span8 {width:738px;}}
 @media (max-width: 979px) and (min-width: 768px) 	{.span8 {width:457px;}}
@@ -14,5 +15,5 @@ body 				{background:#7E0B10 url("../img/background01.png") center repeat-y;}
 @media (min-width: 1200px)							{.span4 {width:330px;}}
 @media (max-width: 979px) and (min-width: 768px)	{.span4 {width:208px;}}
 @media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}}
-.well 				{margin:50px 0 0;}
+
 
