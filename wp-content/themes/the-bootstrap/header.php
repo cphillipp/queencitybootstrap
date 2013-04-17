@@ -26,21 +26,6 @@
 	</head>
 	
 	<body <?php body_class(); ?>>
-		<script type="text/javascript">
-			$(document).ready(function(){
-			resizeDiv();
-			});
-
-			window.onresize = function(event) {
-			resizeDiv();
-			}
-
-			function resizeDiv() {
-			vpw = $(window).width(); 
-			vph = $(window).height(); 
-			$('.background-pattern').css({'height': vph + 'px'});
-			}
-		</script>
 		<div class="background-pattern">
 		<div class="background-city"></div>
 		<div class="container">
