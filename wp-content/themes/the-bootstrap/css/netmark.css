@@ -1,5 +1,5 @@
 /* CUSTOM */
-body 												{background-color:##7E0B10; background-image:url("../img/background01.png"), url("../img/background02.png"); background-position:center; background-repeat:repeat-y, repeat;}
+body 												{background:#7E0B10 url("../img/background01.png") center repeat-y, url("../img/background02.png") repeat;}
 .background-pattern									{}
 .background-city 									{background:url("../img/background03.png") repeat-x; width:100%; height:396px; position:absolute; top:260px; left:0;}
 .container 											{position:relative;}
