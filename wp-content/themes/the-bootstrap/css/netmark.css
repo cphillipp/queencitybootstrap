@@ -16,7 +16,6 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 @media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}
 .well 												{margin:50px 0 0;}
 .navbar .nav>li>a 									{text-transform:uppercase; font-family:'Palatino Linotype'; border-right:1px solid #666;}
-.navbar .nav>#menu-item-29>a 						{border-left:1px solid #666;}
 .navbar .nav>.active>a, 
 .navbar .nav>.active>a:hover, 
 .navbar .nav>.active>a:focus						{background: #000000;
@@ -29,4 +28,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 -ms-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#333333',GradientType=1 );
 background: linear-gradient(top, #000000 0%, #333333 100%);
 }
-
+.navbar-inner 										{padding-left:0; padding-right:0;}
