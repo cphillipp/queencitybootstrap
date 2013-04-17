@@ -35,22 +35,6 @@
 	<!-- <?php printf( __( '%d queries. %s seconds.', 'the-bootstrap' ), get_num_queries(), timer_stop(0, 3) ); ?> -->
 	<?php wp_footer(); ?>
 	</div><!-- .background-pattern -->
-	<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-		resizeDiv();
-		});
-
-		window.onresize = function(event) {
-		resizeDiv();
-		}
-
-		function resizeDiv() {
-		vpw = $(window).width(); 
-		vph = $(window).height(); 
-		$('.background-pattern').css({'height': vph + 'px'});
-		}
-	</script>
 	</body>
 </html>
 <?php
