@@ -3,7 +3,7 @@ body 				{background:#7E0B10 url("../img/background01.png") center repeat-y;}
 .background-pattern	{background:url("../img/background02.png") repeat;}
 .background-city 	{background:url("../img/background03.png") repeat-x; width:100%; height:396px; position:absolute; top:260px; left:0;}
 .container 			{position:relative;}
-#page 				{background:transparent;}
+#page 				{background:transparent; padding:0 !important;}
 .custom-wrapper		{width:95%; background:#FFF; overflow:hidden; margin:0 auto;}
 #meteor-slideshow 	{margin:0 auto;}
 .span8 				{width:591px;}
