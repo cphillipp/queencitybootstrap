@@ -21,29 +21,8 @@
 		<?php tha_head_bottom(); ?>
 		<?php wp_head(); ?>
 		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
-		<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
 	</head>
 	<body <?php body_class(); ?>>
-		<script type="text/javascript">
-			$(document).ready(function(){
-			var height = getDocHeight();
-			$('.background-pattern').css({'height': height});
-			});
-
-			window.onresize = function(event) {
-			var height = getDocHeight();
-			$('.background-pattern').css({'height': height});
-			}
-
-			function getDocHeight() {
-			var D = document;
-			return Math.max(
-			Math.max(D.body.scrollHeight, D.documentElement.scrollHeight),
-			Math.max(D.body.offsetHeight, D.documentElement.offsetHeight),
-			Math.max(D.body.clientHeight, D.documentElement.clientHeight)
-			);
-			}
-		</script>
 		<div class="background-pattern">
 		<div class="background-city"></div>
 		<div class="container">
