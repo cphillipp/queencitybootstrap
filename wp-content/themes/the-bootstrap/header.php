@@ -22,6 +22,7 @@
 		<?php tha_head_bottom(); ?>
 		<?php wp_head(); ?>
 		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
+		<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
 	</head>
 	
 	<body <?php body_class(); ?>>
