@@ -26,7 +26,7 @@
 	<body <?php body_class(); ?>>
 		<script type="text/javascript">
 			$(document).ready(function(){
-			resizeDiv();
+			getDocHeight();
 			});
 
 			window.onresize = function(event) {
