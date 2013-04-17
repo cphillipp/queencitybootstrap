@@ -22,10 +22,25 @@
 		<?php tha_head_bottom(); ?>
 		<?php wp_head(); ?>
 		<link rel="stylesheet" type="text/css" href="/wp-content/themes/the-bootstrap/css/netmark.css" />
-		<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
+		
 	</head>
 	
 	<body <?php body_class(); ?>>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			resizeDiv();
+			});
+
+			window.onresize = function(event) {
+			resizeDiv();
+			}
+
+			function resizeDiv() {
+			vpw = $(window).width(); 
+			vph = $(window).height(); 
+			$('.background-pattern').css({'height': vph + 'px'});
+			}
+		</script>
 		<div class="background-pattern">
 		<div class="background-city"></div>
 		<div class="container">
