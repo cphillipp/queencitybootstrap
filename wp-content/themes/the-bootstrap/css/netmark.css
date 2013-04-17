@@ -14,23 +14,11 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 @media (min-width: 1200px)							{.span4 {width:330px;}}
 @media (max-width: 979px) and (min-width: 768px)	{.span4 {width:208px;}}
 @media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}
-.well 												{margin:50px 0 0;}
+.well 												{margin:50px 0 0; background:transparent; border:none;}
 .navbar-inner 										{padding-left:0; padding-right:0;}
 .navbar .nav>li>a 									{text-transform:uppercase; font-family:'Palatino Linotype'; border-right:1px solid #666;}
 .navbar .nav>.active>a, 
 .navbar .nav>.active>a:hover, 
 .navbar .nav>.active>a:focus						{background: #000000; background: -moz-linear-gradient(top, #000000 0%, #333333 100%); background: -webkit-gradient(linear, left top, right top, color-stop(0%,#000000), color-stop(100%,#333333)); background: -webkit-linear-gradient(top, #000000 0%, #333333 100%); background: -o-linear-gradient(top, #000000 0%, #333333 100%); background: -ms-linear-gradient(top, #000000 0%, #333333 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#333333',GradientType=1 ); -ms-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#333333',GradientType=1 ); background: linear-gradient(top, #000000 0%, #333333 100%);}
 .dropdown-menu .active>a, 
-.dropdown-menu .active>a:hover 						{
-color: #ffffff;
-text-decoration: none;
-outline: 0;
-background-color: #0081c2;
-background-image: -moz-linear-gradient(top, #000000, #333333);
-background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#333333));
-background-image: -webkit-linear-gradient(top, #000000, #333333);
-background-image: -o-linear-gradient(top, #000000, #333333);
-background-image: linear-gradient(to bottom, #000000, #333333);
-background-repeat: repeat-x;
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0077b3', GradientType=0);
-}
+.dropdown-menu .active>a:hover 						{color: #ffffff; text-decoration: none; outline: 0; background-color: #0081c2; background-image: -moz-linear-gradient(top, #000000, #333333); background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#333333)); background-image: -webkit-linear-gradient(top, #000000, #333333); background-image: -o-linear-gradient(top, #000000, #333333); background-image: linear-gradient(to bottom, #000000, #333333); background-repeat: repeat-x; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#333333', GradientType=0);}
