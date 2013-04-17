@@ -14,6 +14,6 @@ body 				{background:#7E0B10 url("../img/background02.png") repeat;}
 .span4 												{width:280px; margin-right:20px;}
 @media (min-width: 1200px)							{.span4 {width:330px;}}
 @media (max-width: 979px) and (min-width: 768px)	{.span4 {width:208px;}}
-@media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}}
+@media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}
 
 
