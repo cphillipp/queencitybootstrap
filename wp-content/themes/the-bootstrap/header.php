@@ -12,6 +12,7 @@
 <!DOCTYPE html>
 <html class="no-js" <?php language_attributes(); ?>>
 	<head>
+		<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
 		<?php tha_head_top(); ?>
 		<link rel="profile" href="http://gmpg.org/xfn/11" />
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
@@ -25,22 +26,21 @@
 	</head>
 	
 	<body <?php body_class(); ?>>
-		<script type="text/javascript" src="/wp-content/themes/the-bootstrap/js/jquery1.9.1.min.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-		resizeDiv();
-		});
+		<script type="text/javascript">
+			$(document).ready(function(){
+			resizeDiv();
+			});
 
-		window.onresize = function(event) {
-		resizeDiv();
-		}
+			window.onresize = function(event) {
+			resizeDiv();
+			}
 
-		function resizeDiv() {
-		vpw = $(window).width(); 
-		vph = $(window).height(); 
-		$('.background-pattern').css({'height': vph + 'px'});
-		}
-	</script>
+			function resizeDiv() {
+			vpw = $(window).width(); 
+			vph = $(window).height(); 
+			$('.background-pattern').css({'height': vph + 'px'});
+			}
+		</script>
 		<div class="background-pattern">
 		<div class="background-city"></div>
 		<div class="container">
