@@ -26,7 +26,8 @@
 	<body <?php body_class(); ?>>
 		<script type="text/javascript">
 			$(document).ready(function(){
-			getDocHeight();
+			var height = getDocHeight();
+			$('.background-pattern').css({'height': height});
 			});
 
 			window.onresize = function(event) {
