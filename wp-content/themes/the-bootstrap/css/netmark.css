@@ -26,3 +26,4 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 .nav-pills>.active>a, 
 .nav-pills>.active>a:hover 							{color:#ffffff; background-color:transparent; text-decoration:underline;}
 .nav-pills>li>a 									{color:#ffffff; background-color:transparent; text-decoration:underline;}
+.nav-pills>li>a:hover								{color:#ffffff; background-color:transparent; text-decoration:underline;}
