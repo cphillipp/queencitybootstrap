@@ -15,4 +15,16 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 @media (max-width: 979px) and (min-width: 768px)	{.span4 {width:208px;}}
 @media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}
 .well 												{margin:50px 0 0;}
-.navbar-inverse .nav .active>a 						{text-transform:uppercase; font-family:georgia;}
+.navbar .nav>.active>a, 
+.navbar .nav>.active>a:hover, 
+.navbar .nav>.active>a:focus						{background: #000000;
+background: -moz-linear-gradient(top, #000000 0%, #333333 100%);
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#000000), color-stop(100%,#333333));
+background: -webkit-linear-gradient(top, #000000 0%, #333333 100%);
+background: -o-linear-gradient(top, #000000 0%, #333333 100%);
+background: -ms-linear-gradient(top, #000000 0%, #333333 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#333333',GradientType=1 );
+-ms-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#333333',GradientType=1 );
+background: linear-gradient(top, #000000 0%, #333333 100%);
+}
+
