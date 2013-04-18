@@ -1077,7 +1077,7 @@ function _the_bootstrap_version() {
 }
 
 function my_favicon() { ?>
-<link rel="shortcut icon" href="img/favicon.ico" >
+<link rel="shortcut icon" href="/wp-content/themes/the-bootstrap/img/favicon.ico" >
 <?php }
 add_action('wp_head', 'my_favicon');
 
