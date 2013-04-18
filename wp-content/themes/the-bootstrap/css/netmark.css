@@ -16,6 +16,7 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 @media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}
 .well 												{background:transparent; border:none;}
 #page-footer.well 									{margin:20px 0; padding:0; background-color:#1b1b1b; background-image: -moz-linear-gradient(top, #222222, #111111); background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#222222), to(#111111)); background-image: -webkit-linear-gradient(top, #222222, #111111); background-image: -o-linear-gradient(top, #222222, #111111); background-image: linear-gradient(to bottom, #222222, #111111); background-repeat: repeat-x; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);border-color: #252525;}
+.slide 												{width:100% !important;}
 .navbar-inner 										{padding-left:0; padding-right:0;}
 .navbar .nav>li>a 									{text-transform:uppercase; font-family:'Palatino Linotype'; border-right:1px solid #666;}
 .navbar .nav>.active>a, 
