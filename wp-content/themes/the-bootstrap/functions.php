@@ -1076,6 +1076,11 @@ function _the_bootstrap_version() {
 	return $theme_version;
 }
 
+function my_favicon() { ?>
+<link rel="shortcut icon" href="img/favicon.ico" >
+<?php }
+add_action('wp_head', 'my_favicon');
+
 
 /* End of file functions.php */
 /* Location: ./wp-content/themes/the-bootstrap/functions.php */
