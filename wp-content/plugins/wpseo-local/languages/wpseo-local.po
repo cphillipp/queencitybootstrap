@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSEO Local Search\n"
+"POT-Creation-Date: 2012-11-16 15:07+0100\n"
+"PO-Revision-Date: 2012-11-16 15:07+0100\n"
+"Last-Translator: Arjan Snaterse <arjan@uprise.nl>\n"
+"Language-Team: Joost de Valk & Arjan Snaterse <joost@yoast.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/wpseo-local-admin.class.php:299
+msgid "Yoast WordPress SEO: "
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:299
+msgid "Local SEO Settings"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:312
+msgid "Enable Local Search functionality"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:317
+msgid "You've not entered your Google Maps key yet. Don't you have one?"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:317
+#: ../classes/wpseo-local-admin.class.php:320
+msgid "Get it here!"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:320
+msgid ""
+"Please sign up for a Google Maps API v3 key, so you can use this plugin."
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:331
+msgid "Load jQuery"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:333
+msgid "Enable this when jQuery is not loaded yet in your theme."
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:338
+msgid "Address format"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:347
+msgid ""
+"A lot of countries have their own address format. Please choose one that "
+"matches yours. If you have something completely different, please let us "
+"know."
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:351
+msgid ""
+"If you have more than one location, you can enable this feature. WordPress "
+"SEO will create a new Custom Post Type for you where you can manage your "
+"locations. If not enable you can enter your address details below. These "
+"fields will be ignored when you enable this option."
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:352
+msgid "Use multiple locations"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:357
+msgid "Business name"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:359
+msgid "Business address"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:361
+msgid "Business city"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:363
+msgid "Business state"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:365
+msgid "Business zipcode"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:367
+msgid "Business country"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:375
+msgid "Business phone number"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:402
+msgid ""
+"<strong>Note:</strong> if you want to show this location in a map or on your "
+"contact page, please use the widget or shortcodes for this."
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:406
+msgid "Locations slug"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:409
+msgid "The slug for your location pages. Default slug is <em>locations</em>."
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:410
+msgid "View them all"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:410
+msgid "or"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:410
+msgid "edit them"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:415
+#, php-format
+msgid "You can find your Geo Sitemap here: %sGeo Sitemap%s"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:416
+#, php-format
+msgid "You can find your KML file here: %sKML file%s"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:418
+msgid ""
+"PS: You do <strong>not</strong> need to generate the Geo sitemap or KML "
+"file, nor will it take up time to generate after publishing a post."
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:421
+msgid "Save Settings"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:441
+msgid "Upload your CSV file. Make sure the <code>\""
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:443
+msgid "Upload CSV"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:444
+msgid "Column separator"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:524
+msgid "CSV import of locations for Local Search"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:533
+msgid "Locations"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:534
+msgid "Location"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:535
+#: ../classes/wpseo-local-admin.class.php:536
+msgid "New Location"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:537
+msgid "Add New Location"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:538
+msgid "Edit Location"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:539
+msgid "View Location"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:540
+msgid "Search Locations"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:541
+msgid "No locations found"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:542
+msgid "No locations found in trash"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:568
+msgid "Business address details"
+msgstr ""
+
+#: ../classes/wpseo-local-admin.class.php:616
+msgid ""
+"You can enter the lat/long coordinates yourself. If you leave them empty "
+"they will be calculated automatically. If you want to re-calculate these "
+"fields, please make them blank before saving this location."
+msgstr ""
+
+#: ../includes/wpseo-local-functions.php:44
+msgid ""
+"Please provide a post ID if you want to show an address outside a Locations "
+"singular page"
+msgstr ""
+
+#: ../includes/wpseo-local-functions.php:127
+msgid "Phone"
+msgstr ""
+
+#: ../includes/wpseo-local-functions.php:160
+msgid ""
+"Please provide a post ID when using this shortcode outside a Locations "
+"singular page"
+msgstr ""
+
+#: ../includes/wpseo-local-functions.php:376
+msgid "Route"
+msgstr ""
+
+#: ../includes/wpseo-local-functions.php:379
+msgid "Your location"
+msgstr ""
+
+#: ../includes/wpseo-local-functions.php:380
+msgid "Show route"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:10
+msgid "Shows address of locations in Schema.org standards."
+msgstr ""
+
+#: ../widgets/widget-show-address.php:12
+msgid "WP SEO - Show Address"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:69 ../widgets/widget-show-map.php:67
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:75 ../widgets/widget-show-map.php:82
+msgid "Location:"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:86 ../widgets/widget-show-map.php:93
+msgid "Select a location"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:97
+msgid "Show country"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:103
+msgid "Show state"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:109
+msgid "Show phone number"
+msgstr ""
+
+#: ../widgets/widget-show-address.php:115
+msgid "Show address in one line"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:10
+msgid "Shows Google Map of your location"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:12
+msgid "WP SEO - Show Map"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:73
+msgid ""
+"Choose to show all your locations in the map, otherwise just pick one in the "
+"selectbox below"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:77
+msgid "Show all locations"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:102
+msgid "Maps settings"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:104
+msgid "Width:"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:108
+msgid "Height:"
+msgstr ""
+
+#: ../widgets/widget-show-map.php:115
+msgid "Zoom level:"
+msgstr ""

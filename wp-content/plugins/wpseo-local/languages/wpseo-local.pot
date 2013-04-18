@@ -1,0 +1,1397 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-seo-local\n"
+"POT-Creation-Date: 2013-03-14 20:27:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/wpseo-local-admin.class.php:24
+#: includes/wpseo-local-functions.php:444
+msgid "Monday"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:25
+#: includes/wpseo-local-functions.php:445
+msgid "Tuesday"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:26
+#: includes/wpseo-local-functions.php:446
+msgid "Wednesday"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:27
+#: includes/wpseo-local-functions.php:447
+msgid "Thursday"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:28
+#: includes/wpseo-local-functions.php:448
+msgid "Friday"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:29
+#: includes/wpseo-local-functions.php:449
+msgid "Saturday"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:30
+#: includes/wpseo-local-functions.php:450
+msgid "Sunday"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:474
+msgid "Yoast WordPress SEO: "
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:474
+#: classes/wpseo-local-admin.class.php:499
+msgid "Local SEO Settings"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:486
+msgid "License"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:487
+msgid "License Key"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:490
+msgid "License Status"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:490
+msgid "active"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:490
+msgid "inactive"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:495
+msgid "Deactivate License"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:496
+msgid "If you want to stop this site from counting towards your license limit, should you have one, simply press deactivate license above."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:502
+msgid "Load jQuery"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:504
+msgid "Enable this when jQuery is not loaded yet in your theme."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:509
+msgid "Address format"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:518
+msgid "A lot of countries have their own address format. Please choose one that matches yours. If you have something completely different, please let us know."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:522
+msgid "If you have more than one location, you can enable this feature. WordPress SEO will create a new Custom Post Type for you where you can manage your locations. If not enable you can enter your address details below. These fields will be ignored when you enable this option."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:523
+msgid "Use multiple locations"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:529
+msgid "Business name"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:531
+msgid "Business type:"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:541
+msgid "Business address"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:543
+#: classes/wpseo-local-admin.class.php:846
+msgid "Business city"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:545
+#: classes/wpseo-local-admin.class.php:848
+msgid "Business state"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:547
+#: classes/wpseo-local-admin.class.php:850
+msgid "Business zipcode"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:549
+#: classes/wpseo-local-admin.class.php:852
+msgid "Business country"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:550
+#: classes/wpseo-local-admin.class.php:853
+msgid "Choose your country"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:557
+msgid "Business phone number"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:560
+msgid "Business fax"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:586
+msgid "Locations slug"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:589
+msgid "The slug for your location pages. Default slug is <em>locations</em>."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:590
+msgid "View them all"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:590
+msgid "or"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:590
+msgid "edit them"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:594
+#: classes/wpseo-local-admin.class.php:878
+msgid "Opening hours"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:597
+msgid "Use 24h format"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:605
+#: classes/wpseo-local-admin.class.php:881
+msgid "I have two sets of opening hours per day"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:644
+msgid "Save Settings"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:649
+msgid "Geo Sitemap & KML File"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:651
+msgid "You can find your Geo Sitemap here: %sGeo Sitemap%s"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:652
+msgid "You can find your KML file here: %sKML file%s"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:654
+msgid "PS: You do <strong>not</strong> need to generate the Geo sitemap or KML file, nor will it take up time to generate after publishing a post."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:674
+msgid "Upload your CSV file. Make sure the %s directory is writeable."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:676
+msgid "Upload CSV"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:677
+msgid "Comma"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:677
+msgid "Semicolon"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:677
+msgid "Column separator"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:758
+msgid "CSV import of locations for Local Search"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:767
+msgid "Locations"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:768
+msgid "Location"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:769
+#: classes/wpseo-local-admin.class.php:770
+msgid "New Location"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:771
+msgid "Add New Location"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:772
+msgid "Edit Location"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:773
+msgid "View Location"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:774
+msgid "Search Locations"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:775
+msgid "No locations found"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:776
+msgid "No locations found in trash"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:799
+msgid "Business address details"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:834
+msgid "Choose your business type"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:844
+msgid "Business address:"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:860
+msgid "Main phone number"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:862
+msgid "Fax number"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:865
+msgid "You can enter the lat/long coordinates yourself. If you leave them empty they will be calculated automatically. If you want to re-calculate these fields, please make them blank before saving this location."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:866
+msgid "Latitude"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:868
+msgid "Longitude"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:872
+msgid "This address is a postal address (not a physical location)"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:1093
+msgid "Your title does not contain your location's city, you should really add that."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:1098
+msgid "Your title contains your location's city, well done!"
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:1105
+msgid "Your URL does not contain your location's city, you should really add that."
+msgstr ""
+
+#: classes/wpseo-local-admin.class.php:1110
+msgid "Your URL contains your location's city, well done!"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:103
+msgid "Afghanistan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:104
+msgid "Albania"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:105
+msgid "Algeria"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:106
+msgid "American Samoa"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:107
+msgid "Andorra"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:108
+msgid "Angola"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:109
+msgid "Anguilla"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:110
+msgid "Antarctica"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:111
+msgid "Antigua And Barbuda"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:112
+msgid "Argentina"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:113
+msgid "Armenia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:114
+msgid "Aruba"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:115
+msgid "Australia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:116
+msgid "Austria"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:117
+msgid "Azerbaijan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:118
+msgid "Bahamas"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:119
+msgid "Bahrain"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:120
+msgid "Bangladesh"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:121
+msgid "Barbados"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:122
+msgid "Belarus"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:123
+msgid "Belgium"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:124
+msgid "Belize"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:125
+msgid "Benin"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:126
+msgid "Bermuda"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:127
+msgid "Bhutan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:128
+msgid "Bolivia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:129
+msgid "Bosnia And Herzegovina"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:130
+msgid "Botswana"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:131
+msgid "Bouvet Island"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:132
+msgid "Brazil"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:133
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:134
+msgid "Brunei"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:135
+msgid "Bulgaria"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:136
+msgid "Burkina Faso"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:137
+msgid "Burundi"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:138
+msgid "Cambodia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:139
+msgid "Cameroon"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:140
+msgid "Canada"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:141
+msgid "Cape Verde"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:142
+msgid "Cayman Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:143
+msgid "Central African Republic"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:144
+msgid "Chad"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:145
+msgid "Chile"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:146
+msgid "China"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:147
+msgid "Christmas Island"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:148
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:149
+msgid "Columbia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:150
+msgid "Comoros"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:151
+msgid "Congo"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:152
+msgid "Cook Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:153
+msgid "Costa Rica"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:154
+msgid "Cote D'Ivorie (Ivory Coast)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:155
+msgid "Croatia (Hrvatska)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:156
+msgid "Cuba"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:157
+msgid "Cyprus"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:158
+msgid "Czech Republic"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:159
+msgid "Democratic Republic Of Congo (Zaire)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:160
+msgid "Denmark"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:161
+msgid "Djibouti"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:162
+msgid "Dominica"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:163
+msgid "Dominican Republic"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:164
+msgid "East Timor"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:165
+msgid "Ecuador"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:166
+msgid "Egypt"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:167
+msgid "El Salvador"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:168
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:169
+msgid "Eritrea"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:170
+msgid "Estonia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:171
+msgid "Ethiopia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:172
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:173
+msgid "Faroe Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:174
+msgid "Fiji"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:175
+msgid "Finland"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:176
+msgid "France"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:177
+msgid "France, Metropolitan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:178
+msgid "French Guinea"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:179
+msgid "French Polynesia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:180
+msgid "French Southern Territories"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:181
+msgid "Gabon"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:182
+msgid "Gambia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:183
+msgid "Georgia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:184
+msgid "Germany"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:185
+msgid "Ghana"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:186
+msgid "Gibraltar"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:187
+msgid "Greece"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:188
+msgid "Greenland"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:189
+msgid "Grenada"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:190
+msgid "Guadeloupe"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:191
+msgid "Guam"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:192
+msgid "Guatemala"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:193
+msgid "Guinea"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:194
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:195
+msgid "Guyana"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:196
+msgid "Haiti"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:197
+msgid "Heard And McDonald Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:198
+msgid "Honduras"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:199
+msgid "Hong Kong"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:200
+msgid "Hungary"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:201
+msgid "Iceland"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:202
+msgid "India"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:203
+msgid "Indonesia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:204
+msgid "Iran"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:205
+msgid "Iraq"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:206
+msgid "Ireland"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:207
+msgid "Israel"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:208
+msgid "Italy"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:209
+msgid "Jamaica"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:210
+msgid "Japan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:211
+msgid "Jordan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:212
+msgid "Kazakhstan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:213
+msgid "Kenya"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:214
+msgid "Kiribati"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:215
+msgid "Kuwait"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:216
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:217
+msgid "Laos"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:218
+msgid "Latvia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:219
+msgid "Lebanon"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:220
+msgid "Lesotho"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:221
+msgid "Liberia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:222
+msgid "Libya"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:223
+msgid "Liechtenstein"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:224
+msgid "Lithuania"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:225
+msgid "Luxembourg"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:226
+msgid "Macau"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:227
+msgid "Macedonia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:228
+msgid "Madagascar"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:229
+msgid "Malawi"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:230
+msgid "Malaysia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:231
+msgid "Maldives"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:232
+msgid "Mali"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:233
+msgid "Malta"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:234
+msgid "Marshall Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:235
+msgid "Martinique"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:236
+msgid "Mauritania"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:237
+msgid "Mauritius"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:238
+msgid "Mayotte"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:239
+msgid "Mexico"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:240
+msgid "Micronesia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:241
+msgid "Moldova"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:242
+msgid "Monaco"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:243
+msgid "Mongolia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:244
+msgid "Montserrat"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:245
+msgid "Morocco"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:246
+msgid "Mozambique"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:247
+msgid "Myanmar (Burma)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:248
+msgid "Namibia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:249
+msgid "Nauru"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:250
+msgid "Nepal"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:251
+msgid "Netherlands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:252
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:253
+msgid "New Caledonia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:254
+msgid "New Zealand"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:255
+msgid "Nicaragua"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:256
+msgid "Niger"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:257
+msgid "Nigeria"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:258
+msgid "Niue"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:259
+msgid "Norfolk Island"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:260
+msgid "North Korea"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:261
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:262
+msgid "Norway"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:263
+msgid "Oman"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:264
+msgid "Pakistan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:265
+msgid "Palau"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:266
+msgid "Panama"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:267
+msgid "Papua New Guinea"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:268
+msgid "Paraguay"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:269
+msgid "Peru"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:270
+msgid "Philippines"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:271
+msgid "Pitcairn"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:272
+msgid "Poland"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:273
+msgid "Portugal"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:274
+msgid "Puerto Rico"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:275
+msgid "Qatar"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:276
+msgid "Reunion"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:277
+msgid "Romania"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:278
+msgid "Russia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:279
+msgid "Rwanda"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:280
+msgid "Saint Helena"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:281
+msgid "Saint Kitts And Nevis"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:282
+msgid "Saint Lucia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:283
+msgid "Saint Pierre And Miquelon"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:284
+msgid "Saint Vincent And The Grenadines"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:285
+msgid "San Marino"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:286
+msgid "Sao Tome And Principe"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:287
+msgid "Saudi Arabia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:288
+msgid "Senegal"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:289
+msgid "Seychelles"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:290
+msgid "Sierra Leone"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:291
+msgid "Singapore"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:292
+msgid "Slovak Republic"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:293
+msgid "Slovenia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:294
+msgid "Solomon Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:295
+msgid "Somalia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:296
+msgid "South Africa"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:297
+msgid "South Georgia And South Sandwich Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:298
+msgid "South Korea"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:299
+msgid "Spain"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:300
+msgid "Sri Lanka"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:301
+msgid "Sudan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:302
+msgid "Suriname"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:303
+msgid "Svalbard And Jan Mayen"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:304
+msgid "Swaziland"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:305
+msgid "Sweden"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:306
+msgid "Switzerland"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:307
+msgid "Syria"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:308
+msgid "Taiwan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:309
+msgid "Tajikistan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:310
+msgid "Tanzania"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:311
+msgid "Thailand"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:312
+msgid "Togo"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:313
+msgid "Tokelau"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:314
+msgid "Tonga"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:315
+msgid "Trinidad And Tobago"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:316
+msgid "Tunisia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:317
+msgid "Turkey"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:318
+msgid "Turkmenistan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:319
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:320
+msgid "Tuvalu"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:321
+msgid "Uganda"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:322
+msgid "Ukraine"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:323
+msgid "United Arab Emirates"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:324
+msgid "United Kingdom"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:325
+msgid "United States"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:326
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:327
+msgid "Uruguay"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:328
+msgid "Uzbekistan"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:329
+msgid "Vanuatu"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:330
+msgid "Vatican City (Holy See)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:331
+msgid "Venezuela"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:332
+msgid "Vietnam"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:333
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:334
+msgid "Virgin Islands (US)"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:335
+msgid "Wallis And Futuna Islands"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:336
+msgid "Western Sahara"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:337
+msgid "Western Samoa"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:338
+msgid "Yemen"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:339
+msgid "Yugoslavia"
+msgstr ""
+
+#: classes/wpseo-local-frontend.class.php:340
+msgid "Zambia"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:52
+msgid "Please provide a post ID if you want to show an address outside a Locations singular page"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:109
+msgid "Phone"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:113
+msgid "Fax"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:159
+msgid "Please provide a post ID when using this shortcode outside a Locations singular page"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:411
+msgid "Route"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:414
+msgid "Your location"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:415
+msgid "Show route"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:497
+#: includes/wpseo-local-functions.php:567
+msgid "Closed"
+msgstr ""
+
+#: includes/wpseo-local-functions.php:501
+msgid "and"
+msgstr ""
+
+#: widgets/widget-show-address.php:10
+msgid "Shows address of locations in Schema.org standards."
+msgstr ""
+
+#: widgets/widget-show-address.php:12
+msgid "WP SEO - Show Address"
+msgstr ""
+
+#: widgets/widget-show-address.php:77 widgets/widget-show-map.php:71
+#: widgets/widget-show-openinghours.php:57
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-show-address.php:83 widgets/widget-show-map.php:86
+#: widgets/widget-show-openinghours.php:63
+msgid "Location:"
+msgstr ""
+
+#: widgets/widget-show-address.php:94 widgets/widget-show-map.php:97
+#: widgets/widget-show-openinghours.php:74
+msgid "Select a location"
+msgstr ""
+
+#: widgets/widget-show-address.php:105
+msgid "Show country"
+msgstr ""
+
+#: widgets/widget-show-address.php:111
+msgid "Show state"
+msgstr ""
+
+#: widgets/widget-show-address.php:117
+msgid "Show phone number"
+msgstr ""
+
+#: widgets/widget-show-address.php:123
+msgid "Show opening hours"
+msgstr ""
+
+#: widgets/widget-show-address.php:129
+msgid "Show address in one line"
+msgstr ""
+
+#: widgets/widget-show-map.php:10
+msgid "Shows Google Map of your location"
+msgstr ""
+
+#: widgets/widget-show-map.php:12
+msgid "WP SEO - Show Map"
+msgstr ""
+
+#: widgets/widget-show-map.php:77
+msgid "Choose to show all your locations in the map, otherwise just pick one in the selectbox below"
+msgstr ""
+
+#: widgets/widget-show-map.php:81
+msgid "Show all locations"
+msgstr ""
+
+#: widgets/widget-show-map.php:106
+msgid "Maps settings"
+msgstr ""
+
+#: widgets/widget-show-map.php:108
+msgid "Width:"
+msgstr ""
+
+#: widgets/widget-show-map.php:112
+msgid "Height:"
+msgstr ""
+
+#: widgets/widget-show-map.php:119
+msgid "Zoom level:"
+msgstr ""
+
+#: widgets/widget-show-map.php:130
+msgid "Show route planner"
+msgstr ""
+
+#: widgets/widget-show-openinghours.php:10
+msgid "Shows opening hours of locations in Schema.org standards."
+msgstr ""
+
+#: widgets/widget-show-openinghours.php:12
+msgid "WP SEO - Show Opening hours"
+msgstr ""
