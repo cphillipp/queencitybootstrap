@@ -30,3 +30,4 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 .nav-pills>.active>a:hover 							{color:#ffffff; background-color:transparent;}
 .nav-pills>li>a 									{color:#999999; text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25); font-size:13px; background-color:transparent;}
 .nav-pills>li>a:hover								{color:#ffffff; background-color:transparent;}
+#site-generator 									{color:#666; padding:6px 12px;}
