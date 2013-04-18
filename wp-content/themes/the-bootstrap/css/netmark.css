@@ -5,7 +5,7 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 .container 											{position:relative;}
 #page 												{background:transparent; padding:0 !important;}
 .custom-wrapper										{width:95%; background:#FFF; overflow:hidden; margin:0 auto;}
-#meteor-slideshow 									{margin:0 auto;}
+#meteor-slideshow 									{margin:0 auto 50px;}
 .span8 												{width:591px;}
 @media (min-width: 1200px) 							{.span8 {width:738px;}}
 @media (max-width: 979px) and (min-width: 768px) 	{.span8 {width:457px;}}
@@ -14,7 +14,7 @@ body 												{background:#7E0B10 url("../img/background01.png") center repea
 @media (min-width: 1200px)							{.span4 {width:330px;}}
 @media (max-width: 979px) and (min-width: 768px)	{.span4 {width:208px;}}
 @media (max-width: 767px) 							{#secondary {margin:0 3%; width:93%;}}
-.well 												{background:transparent; border:none;}
+.well 												{padding:0; background:transparent; border:none;}
 .navbar-inner 										{padding-left:0; padding-right:0;}
 .navbar .nav>li>a 									{text-transform:uppercase; font-family:'Palatino Linotype'; border-right:1px solid #666;}
 .navbar .nav>.active>a, 
